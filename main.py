@@ -1,4 +1,4 @@
-from windows import main
+from widgets import main
 
 
 print("Hello, world!")
